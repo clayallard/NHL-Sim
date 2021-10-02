@@ -18,6 +18,7 @@ With the addition of the Seattle Kraken, there are now 32 teams in the league. T
 
 
 
+
 Summary:
 This project is a simulation of NHL seasons. A model of randomness that determines the outcome of any amount of seasons. The basic idea is that every team is given a number to represent how "good" they are. I will refer to this is their "skill value". Then teams are matched up against eachother and the probability of either team winning or going to overtime is determined by some formula that I made up. Overtime, the value of each team's skill value subtly change. This is done with a random walk (a stochastic process). If you don't know what that is, don't worry about it. Just know that it changes over time. This means that teams will have stretches of time across several seasons where they will be dominant and stretches of time where they will be terrible. In order to determine their skill value initially, I just watched a preseason power rankings video from a YouTube channel, The Hockey Guy, and ranked teams in that order. The fascinating part of this project is imagining the outcomes as if they happened in real life and seeing how teams evolve over time. This is not a project to be used to make real predictions since I am not using any real data. This is just a proof of concept for now. Although, I would love to eventually adapt the program to take in real data to make real inferences about future outcomes.
 
