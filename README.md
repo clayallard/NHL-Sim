@@ -8,10 +8,12 @@ In order to understand the project, I must give background to how the NHL works.
 
 
   2021
+  
 There 31 teams in the league and four divisions. There are 3 divisions of 8 teams (west, central, east) and one division of 7 teams (the Canada division). There are 56 games in total for each team. Teams will only play within their own division. This is due to COVID restrictions where teams in Canada couldn't consistently cross the border. The top four teams in each division make the playoffs. Each division will have its own playoff bracket and the winners of each division well be in the final four. The top team out of those four will face the lowest team and the winners of the two series' will face off in the Stanley Cup Final.
 
 
   2022 and beyond
+  
 With the addition of the Seattle Kraken, there are now 32 teams in the league. There are two conferences each consisting of two divisions of 8 teams. There are 82 games in total. for each conference, the top 3 teams in each division make the playoffs and then there are two wildcard teams that are the top teams not in the top 3 of their respective division. Then similar to the 2021 season format, each division will have its own bracket (including the wildcard team as the 4th seed). The winners of each divisional bracket will face off in the conference finals and the winner of those in each conference will be the final two (the Stanley Cup Final).
 
 
